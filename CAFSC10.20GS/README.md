@@ -69,9 +69,3 @@ RAF/
     ├── class1/
 Statement on Contributions to This Codebase and the Associated Paper
 
-The code contained in this repository and the directly related academic paper, Channel Attention-Guided Global–Local Semantic Collaboration for Facial Expression Recognition, were completed primarily by Shuo Gao.
-
-Detailed Contributions
-
-```bash
-pip install -r requirements.txt
