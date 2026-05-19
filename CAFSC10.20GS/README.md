@@ -67,31 +67,11 @@ RAF/
 └── valid/
     ├── class0/
     ├── class1/
-    ...
-    # 关于本代码及关联论文的贡献声明
+Statement on Contributions to This Codebase and the Associated Paper
 
-本项目所包含的代码及与之直接相关的学术论文《通道注意力指导全局局部语义协同的表情识别》，其全部实质性贡献均由本人（高硕）独立完成。
+The code contained in this repository and the directly related academic paper, Channel Attention-Guided Global–Local Semantic Collaboration for Facial Expression Recognition, were completed primarily by Shuo Gao.
 
-## 具体贡献细节
+Detailed Contributions
 
-本人确认，本人独立完成了以下所有核心工作：
-*   论文的核心创新点提出与理论框架构建
-*   研究方案设计与实验方法实现
-*   代码的编写、测试与调试
-*   实验数据的采集、处理与分析
-*   论文原稿的撰写与修改
-
-## 关于其他署名方的说明
-
-本论文的其他署名作者（吕景刚 李玉芝 周金）确认，他们未对上述实质性工作做出创造性贡献。其署名仅为满足部分期刊或机构对论文发表流程的形式要求。
-
-## 知识产权与授权
-
-任何个人或实体通过下载、复制、分发或其他方式使用本仓库中的代码，即视为**知晓并同意**本贡献声明之全部内容，认可本人作为本论文及关联代码的唯一实质性贡献者。未经本人书面许可，任何一方不得将本论文或代码用于申请专利、申报奖项或任何可能损害本人权益的用途。
-
-## 生效与确认
-
-本声明自首次提交至本代码仓库之日起生效。
-## Prepare dataset
 ```bash
 pip install -r requirements.txt
